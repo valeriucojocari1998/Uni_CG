@@ -1,13 +1,13 @@
 # depslib dependency file v1.0
-1717192778 source:c:\users\valer\onedrive\documents\university\computer graphics\cg\main.cpp
+1717361795 source:c:\users\alvys-dev\documents\valeriu-projects\uni_cg\main.cpp
 	<iostream>
 	<GL/freeglut.h>
 
-1717185928 c:\program files\freeglut\include\gl\freeglut.h
+1426367728 c:\program files\freeglut\include\gl\freeglut.h
 	"freeglut_std.h"
 	"freeglut_ext.h"
 
-1717185928 c:\program files\freeglut\include\gl\freeglut_std.h
+1426367728 c:\program files\freeglut\include\gl\freeglut_std.h
 	<windows.h>
 	<EGL/egl.h>
 	<GLES/gl.h>
@@ -18,80 +18,59 @@
 	<GL/glu.h>
 	<stdlib.h>
 
-1717185928 c:\program files\freeglut\include\gl\freeglut_ext.h
+1426367728 c:\program files\freeglut\include\gl\freeglut_ext.h
 	<stdarg.h>
 
-1717187936 source:c:\users\valer\onedrive\documents\university\computer graphics\cg\project1.cpp
-	<GL/freeglut.h>
-	<cmath>
-
-1717187840 source:c:\users\valer\onedrive\documents\university\computer graphics\cg\tema1.cpp
-	<GL/freeglut.h>
-
-1717187847 source:c:\users\valer\onedrive\documents\university\computer graphics\cg\tema2.cpp
-	<GL/freeglut.h>
-
-1717187918 source:c:\users\valer\onedrive\documents\university\computer graphics\cg\tema3.cpp
-	<GL/freeglut.h>
-
-1717187861 source:c:\users\valer\onedrive\documents\university\computer graphics\cg\tema4.cpp
-	<GL/freeglut.h>
-
-1717192737 source:c:\users\valer\onedrive\documents\university\computer graphics\cg\tema1_point1.cpp
-	<GL/freeglut.h>
-
-1717192746 source:c:\users\valer\onedrive\documents\university\computer graphics\cg\tema1_point2.cpp
-	<GL/freeglut.h>
-
-1717190575 source:c:\users\valer\onedrive\documents\university\computer graphics\cg\tema1_point3.cpp
-	<GL/freeglut.h>
-
-1717189481 source:c:\users\valer\onedrive\documents\university\computer graphics\cg\tema1_point4.cpp
-	<GL/freeglut.h>
-
-1717189486 source:c:\users\valer\onedrive\documents\university\computer graphics\cg\tema2_point1.cpp
-	<GL/freeglut.h>
-
-1717192907 source:c:\users\valer\onedrive\documents\university\computer graphics\cg\tema2_point2.cpp
-	<GL/freeglut.h>
-
-1717189508 source:c:\users\valer\onedrive\documents\university\computer graphics\cg\tema3_solar.cpp
-	<GL/freeglut.h>
-	<cmath>
-
-1717190353 source:c:\users\valer\onedrive\documents\university\computer graphics\cg\tema3_square.cpp
-	<GL/freeglut.h>
-	"globals.h"
-
-1717192271 source:c:\users\valer\onedrive\documents\university\computer graphics\cg\proiect1.cpp
+1717361795 source:c:\users\alvys-dev\documents\valeriu-projects\uni_cg\proiect1.cpp
 	<GL/freeglut.h>
 	"globals.h"
 	<cmath>
 
-1717189623 source:c:\users\valer\onedrive\documents\university\computer graphics\cg\tema2_point3.cpp
+1717361795 c:\users\alvys-dev\documents\valeriu-projects\uni_cg\globals.h
+
+1717361795 source:c:\users\alvys-dev\documents\valeriu-projects\uni_cg\tema1_point1.cpp
+	<GL/freeglut.h>
+
+1717361795 source:c:\users\alvys-dev\documents\valeriu-projects\uni_cg\tema1_point2.cpp
+	<GL/freeglut.h>
+
+1717361795 source:c:\users\alvys-dev\documents\valeriu-projects\uni_cg\tema2_point1.cpp
+	<GL/freeglut.h>
+
+1717361795 source:c:\users\alvys-dev\documents\valeriu-projects\uni_cg\tema2_point2.cpp
+	<GL/freeglut.h>
+
+1717361795 source:c:\users\alvys-dev\documents\valeriu-projects\uni_cg\tema2_point3.cpp
 	<GL/freeglut.h>
 	<cmath>
 
-1717190361 source:c:\users\valer\onedrive\documents\university\computer graphics\cg\tema4_square.cpp
+1717361795 source:c:\users\alvys-dev\documents\valeriu-projects\uni_cg\tema3_solar.cpp
+	<GL/freeglut.h>
+	<cmath>
+
+1717361795 source:c:\users\alvys-dev\documents\valeriu-projects\uni_cg\tema3_square.cpp
 	<GL/freeglut.h>
 	"globals.h"
 
-1717189666 c:\users\valer\onedrive\documents\university\computer graphics\cg\stb_image.h
-	"stb_image.h"
-	<stdio.h>
+1717361795 source:c:\users\alvys-dev\documents\valeriu-projects\uni_cg\tema4_square.cpp
+	<GL/freeglut.h>
+	"globals.h"
+
+1426367728 c:\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1426367728 c:\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
 	<stdlib.h>
+
+1426367728 c:\freeglut\include\gl\freeglut_ext.h
 	<stdarg.h>
-	<stddef.h>
-	<stdlib.h>
-	<string.h>
-	<limits.h>
-	<math.h>
-	<stdio.h>
-	<assert.h>
-	<stdint.h>
-	<emmintrin.h>
-	<intrin.h>
-	<arm_neon.h>
-
-1717190301 c:\users\valer\onedrive\documents\university\computer graphics\cg\globals.h
 

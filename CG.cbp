@@ -31,20 +31,18 @@
 		<Compiler>
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
-			<Add directory="C:/Program Files/freeglut/include" />
+			<Add directory="C:/freeglut/include" />
 		</Compiler>
 		<Linker>
 			<Add library="freeglut" />
 			<Add library="opengl32" />
 			<Add library="glu32" />
-			<Add directory="C:/Program Files/freeglut/lib" />
+			<Add directory="C:/freeglut/lib" />
 		</Linker>
 		<Unit filename="main.cpp" />
 		<Unit filename="proiect1.cpp" />
 		<Unit filename="tema1_point1.cpp" />
 		<Unit filename="tema1_point2.cpp" />
-		<Unit filename="tema1_point3.cpp" />
-		<Unit filename="tema1_point4.cpp" />
 		<Unit filename="tema2_point1.cpp" />
 		<Unit filename="tema2_point2.cpp" />
 		<Unit filename="tema2_point3.cpp" />
